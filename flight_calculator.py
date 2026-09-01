@@ -1,1 +1,2 @@
-# This file is intentionally left blank.
+#calc start
+print("Flight calculator started")
